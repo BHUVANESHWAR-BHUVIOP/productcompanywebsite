@@ -41,8 +41,14 @@ Publish the website in the given URL.
 ### Home Page:
 
 ![gitlogo](1.jpg)
+
+### Product Page:
 ![gitlogo](2.jpg)
+
+### People Page:
 ![gitlogo](3.jpg)
+
+### ContactUs Page:
 ![gitlogo](4.jpg)
 
 ## Result:
