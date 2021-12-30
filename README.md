@@ -313,9 +313,13 @@ Copyright &#169; 2021 Amazon Private Limited, Developed by Bhuvaneshwar v
 </body>
 </html>
 ```
+### Home Page:
 ![gitlogo](1.jpg)
+### Product Page:
 ![gitlogo](2.jpg)
+### People Page:
 ![gitlogo](3.jpg)
+### ContactUs Page:
 ![gitlogo](4.jpg)
 
 ## Result:
