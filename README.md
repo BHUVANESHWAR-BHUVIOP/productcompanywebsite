@@ -40,7 +40,10 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![gitlogo](1.jpg)
+![gitlogo](2.jpg)
+![gitlogo](3.jpg)
+![gitlogo](4.jpg)
 
 ## Result:
 
